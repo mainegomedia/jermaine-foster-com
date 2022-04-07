@@ -1,24 +1,28 @@
-import logo from './logo.svg';
 import './App.css';
+import SlideRoutes from 'react-slide-routes';
+import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom'
+import Home from './Routes/Home'
+import Projects from './Routes/Projects'
+import Contact from './Routes/Contact'
+import Navbar from './Components/Navbar';
 
 function App() {
   return (
+    <Router>
     <div className="App">
+     <Navbar />
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        {/* <Routes> */}
+          <SlideRoutes animation='rotate' timing='ease-in' transition-duration='500'>
+            <Route exact path="/" element={<Home/>} />
+            <Route exact path="/home" element={<Home/>} />
+            <Route exact path="/projects" element={<Projects/>} />
+            <Route exact path="/contact" element={<Contact/>} />
+          </SlideRoutes>
+        {/* </Routes> */}
       </header>
     </div>
+    </Router>
   );
 }
 
