@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jermaine-foster-com/static/css/main.9e63d50f.css",
+    "main.js": "/jermaine-foster-com/static/js/main.57bad593.js",
+    "static/js/453.f924ad45.chunk.js": "/jermaine-foster-com/static/js/453.f924ad45.chunk.js",
+    "static/media/telluride.jpg": "/jermaine-foster-com/static/media/telluride.067ecf730812118ef7d0.jpg",
+    "index.html": "/jermaine-foster-com/index.html",
+    "main.9e63d50f.css.map": "/jermaine-foster-com/static/css/main.9e63d50f.css.map",
+    "main.57bad593.js.map": "/jermaine-foster-com/static/js/main.57bad593.js.map",
+    "453.f924ad45.chunk.js.map": "/jermaine-foster-com/static/js/453.f924ad45.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e63d50f.css",
+    "static/js/main.57bad593.js"
+  ]
+}
