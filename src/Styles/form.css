@@ -55,6 +55,7 @@
 @media only screen and (max-width: 460px) {
     .formDiv {
         min-width: 250px;
+        margin-top: 18px;
     }
 }
 
@@ -62,3 +63,4 @@
     font-size: large;
     margin-top: 25px;
 }
+
