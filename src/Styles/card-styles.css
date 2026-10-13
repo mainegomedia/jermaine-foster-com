@@ -30,17 +30,17 @@
 
 #project-001 {
     grid-area:image;
-    background: url("/public/telluride.jpg");
+    background: url("/public/placeholder-1.svg");
 }
 
 #project-002 {
     grid-area:image;
-    background: url("/public/telluride.jpg");
+    background: url("/public/placeholder-2.svg");
 }
 
 #project-003 {
     grid-area:image;
-    background: url("/public/telluride.jpg");
+    background: url("/public/placeholder-3.svg");
 }
 
 .title{
