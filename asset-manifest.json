@@ -1,16 +1,19 @@
 {
   "files": {
-    "main.css": "/jermaine-foster-com/static/css/main.9e63d50f.css",
-    "main.js": "/jermaine-foster-com/static/js/main.b8ddf7b8.js",
+    "main.css": "/jermaine-foster-com/static/css/main.dd4247a4.css",
+    "main.js": "/jermaine-foster-com/static/js/main.dbec8d7e.js",
     "static/js/453.f924ad45.chunk.js": "/jermaine-foster-com/static/js/453.f924ad45.chunk.js",
     "static/media/telluride.jpg": "/jermaine-foster-com/static/media/telluride.067ecf730812118ef7d0.jpg",
+    "static/media/placeholder-2.svg": "/jermaine-foster-com/static/media/placeholder-2.9c01cc3cc25a30d90c53.svg",
+    "static/media/placeholder-1.svg": "/jermaine-foster-com/static/media/placeholder-1.fd1ce35b8a8c12bccc5e.svg",
+    "static/media/placeholder-3.svg": "/jermaine-foster-com/static/media/placeholder-3.e4247ca8b77cff870ea7.svg",
     "index.html": "/jermaine-foster-com/index.html",
-    "main.9e63d50f.css.map": "/jermaine-foster-com/static/css/main.9e63d50f.css.map",
-    "main.b8ddf7b8.js.map": "/jermaine-foster-com/static/js/main.b8ddf7b8.js.map",
+    "main.dd4247a4.css.map": "/jermaine-foster-com/static/css/main.dd4247a4.css.map",
+    "main.dbec8d7e.js.map": "/jermaine-foster-com/static/js/main.dbec8d7e.js.map",
     "453.f924ad45.chunk.js.map": "/jermaine-foster-com/static/js/453.f924ad45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e63d50f.css",
-    "static/js/main.b8ddf7b8.js"
+    "static/css/main.dd4247a4.css",
+    "static/js/main.dbec8d7e.js"
   ]
 }
